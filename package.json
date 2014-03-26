@@ -1,7 +1,7 @@
 {
   "name": "atom-surfs-up-ui",
   "theme": "ui",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Rich wavy theme for interface components",
   "license": "MIT",
   "repository": "https://github.com/afj176/atom-surfs-up-ui",
